@@ -1,0 +1,4 @@
+PEREMENNA = {
+    Home: '/',
+    
+}
